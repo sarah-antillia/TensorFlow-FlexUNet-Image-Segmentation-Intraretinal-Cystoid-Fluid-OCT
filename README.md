@@ -119,7 +119,7 @@ The folder structure of the original dataset
 ...
       └─masks
 </pre>
-In this experiment, we geneated a 512x512-pixel cropped PNG ImageMask dataset  
+In this experiment, we generated a 512x512-pixel cropped PNG ImageMask dataset  
 from the JPEG files  in images folder and  PNG files  in masks folder in all subfolders
 of  <b>2021-training-data-ZA</b> dataset.
 <br><br>
